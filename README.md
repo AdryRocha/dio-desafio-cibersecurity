@@ -37,5 +37,6 @@ Escolha do tipo e método de ataque:
   - na primeira tentativa, o retorno no terminal do Kali foi _user=0 no campo POSSIBLE USERNAME FIELD FOUND
   - na segunda tentativa, o resultado esperado 
 
+
  
   
